@@ -153,6 +153,7 @@ void empty()
 }
 
 OUTPUT:
+
  1 - Enque
  2 - Deque
  3 - Front element
